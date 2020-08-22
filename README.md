@@ -40,6 +40,10 @@
 <br />
 <br />
 
+---
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=matheus-ndc&hide=stars,issues,contribs&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
 [website]: https://mxdev.com.br
 [instagram]: https://instagram.com/matheus_ndc
 [linkedin]: https://linkedin.com/in/matheusndc
