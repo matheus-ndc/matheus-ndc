@@ -1,13 +1,13 @@
-### Hi there, 👋
+### Hi there, :wave:
 
-[![Website](https://img.shields.io/website?label=mxdev.com.br&style=for-the-badge&url=https%3A%2F%2Fmxdev.com.br)](https://mxdev.com.br)
+[![Website](https://img.shields.io/website?label=mxdev.com.br&style=for-the-badge&logo=linux&logoColor=white&url=https%3A%2F%2Fmxdev.com.br)](https://mxdev.com.br)
 
 ## I'm a Web Developer and Self-taught!
 
-- 📱 I'm currently working on private projects with React + React Native
-- 🌱 I'm currently increasing my knowledge on mobile apps with React and Node.js
-- 🎯 2020 Goals: Contribute and make more apps on GitHub and Open Sources projects
-- 🕹️ Fun fact: I ❤️ to code & play RTS games
+- :iphone: I'm currently working on private projects with React + React Native
+- :seedling: I'm currently increasing my knowledge on mobile apps with React and Node.js
+- :dart: 2020 Goals: Contribute and make more apps on GitHub and Open Sources projects
+- :joystick: Fun fact: I :heart: to code & play FPS/RTS strategy games :crossed_swords:
 
 ### Connect with me:
 
@@ -39,6 +39,10 @@
 
 <br />
 <br />
+
+---
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=matheus-ndc&hide=stars,issues,contribs&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://mxdev.com.br
 [instagram]: https://instagram.com/matheus_ndc
