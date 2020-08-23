@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=mxdev.com.br&style=for-the-badge&logo=linux&logoColor=white&url=https%3A%2F%2Fmxdev.com.br)](https://mxdev.com.br)
 
-## I'm a Web Developer and Self-taught!
+## I'm a Software Engineer and Self-taught!
 
 - :iphone: I'm currently working on private projects with React + React Native
 - :seedling: I'm currently increasing my knowledge on mobile apps with React and Node.js
