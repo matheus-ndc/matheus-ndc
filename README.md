@@ -1,8 +1,8 @@
 ### Hi there, :wave:
 
-[![Website](https://img.shields.io/website?label=mxdev.com.br&style=for-the-badge&logo=linux&logoColor=white&url=https%3A%2F%2Fmxdev.com.br)](https://mxdev.com.br)
+![](https://komarev.com/ghpvc/?username=matheus-ndc&style=flat-square)
 
-## I'm a Software Engineer and Self-taught!
+## I'm a Software Engineer!
 
 - :iphone: I'm currently working on private projects with React + React Native
 - :seedling: I'm currently increasing my knowledge on mobile apps with React and Node.js
@@ -38,7 +38,7 @@
 
 ---
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=matheus-ndc&hide=stars,issues,contribs&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=matheus-ndc&hide=stars,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://mxdev.com.br
 [instagram]: https://instagram.com/matheus_ndc
