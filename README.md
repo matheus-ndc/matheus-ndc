@@ -1,12 +1,14 @@
 ### Hi there, :wave:
 
-![](https://komarev.com/ghpvc/?username=matheus-ndc&style=flat-square)
+![](https://komarev.com/ghpvc/?username=matheus-ndc&style=flat-square)<br>
+![](https://img.shields.io/github/last-commit/matheus-ndc/matheus-ndc?color=blue&style=flat-square)
 
 ## I'm a Software Engineer!
 
-- :iphone: I'm currently working on private projects with React + React Native
-- :seedling: I'm currently increasing my knowledge on mobile apps with React and Node.js
-- :dart: 2020 Goals: Contribute and make more apps on GitHub and Open Sources projects
+- :iphone: I'm currently working on private projects with React that is my favorite framework for views<br>
+and PHP for the back-end and API's
+- :seedling: I'm currently increasing my knowledge on mobile apps with React Native
+- :dart: 2021 Goals: Contribute and make more apps on GitHub and Open Sources projects
 - :joystick: Fun fact: I :heart: to code & play FPS/RTS strategy games :crossed_swords:
 
 ### Connect with me:
@@ -16,7 +18,7 @@
 [<img align="left" alt="Matheus do Carmo | Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][medium]
 [<img align="left" alt="matheus_ndc | Instagram" src="https://img.shields.io/badge/instagram-%239146FF.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 
-<br/>
+<br>
 
 ### Languages and Tools:
 
@@ -33,14 +35,14 @@
 [<img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>][devto]
 [<img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>][devto]
 
-<br />
-<br />
+<br>
+<br>
 
 ---
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=matheus-ndc&hide=stars,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
-[website]: https://mxdev.com.br
+[website]: https://www.mxdev.com.br
 [instagram]: https://instagram.com/matheus_ndc
 [linkedin]: https://linkedin.com/in/matheusndc
 [behance]: https://behance.net/matheusndc
