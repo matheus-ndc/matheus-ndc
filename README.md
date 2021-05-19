@@ -5,8 +5,9 @@
 
 ## I'm a Software Developer!
 
-- :iphone: I'm currently working on private projects with React + React Native
-- :seedling: I'm currently increasing my knowledge on mobile apps with React and Node.js
+- :iphone: I'm currently working on private projects with React that is my favorite framework for views<br>
+  and PHP for the back-end and API's
+- :seedling: I'm currently increasing my knowledge on mobile apps with React Native
 - :dart: 2021 Goals: Contribute and make more apps on GitHub and Open Sources projects
 - :joystick: Fun fact: I :heart: to code & play FPS/RTS strategy games :crossed_swords:
 
@@ -17,7 +18,7 @@
 [<img align="left" alt="Matheus do Carmo | Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][medium]
 [<img align="left" alt="matheus_ndc | Instagram" src="https://img.shields.io/badge/instagram-%239146FF.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 
-<br/>
+<br>
 
 ### Languages and Tools:
 
@@ -62,7 +63,7 @@
 
 <p align="center">Feito com ❤️ por <strong>Matheus do Carmo</strong></p>
 
-[website]: https://mxdev.com.br
+[website]: https://www.mxdev.com.br
 [instagram]: https://instagram.com/matheus_ndc
 [linkedin]: https://linkedin.com/in/matheusndc
 [behance]: https://behance.net/matheusndc
