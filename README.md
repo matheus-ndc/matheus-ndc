@@ -1,12 +1,13 @@
 ### Hi there, :wave:
 
-![](https://komarev.com/ghpvc/?username=matheus-ndc&style=flat-square)
+![](https://komarev.com/ghpvc/?username=matheus-ndc&style=flat-square)<br>
+![](https://img.shields.io/github/last-commit/matheus-ndc/matheus-ndc?color=red&style=flat-square)
 
-## I'm a Software Engineer!
+## I'm a Software Developer!
 
 - :iphone: I'm currently working on private projects with React + React Native
 - :seedling: I'm currently increasing my knowledge on mobile apps with React and Node.js
-- :dart: 2020 Goals: Contribute and make more apps on GitHub and Open Sources projects
+- :dart: 2021 Goals: Contribute and make more apps on GitHub and Open Sources projects
 - :joystick: Fun fact: I :heart: to code & play FPS/RTS strategy games :crossed_swords:
 
 ### Connect with me:
@@ -33,12 +34,33 @@
 [<img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>][devto]
 [<img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>][devto]
 
-<br />
-<br />
+---
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheus-ndc&hide=stars,issues,contribs&show_icons=true&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-ndc&exclude_repo=2d-game-engine" />
+</a>
 
 ---
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=matheus-ndc&hide=stars,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matheus-ndc&repo=2d-game-engine" />
+</a>
+<a href="https://github.com/matheus-ndc/crypto-merkel-and-patricia-tree">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matheus-ndc&repo=crypto-merkel-and-patricia-tree" />
+</a>
+<a href="https://github.com/matheus-ndc/be-the-hero">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matheus-ndc&repo=be-the-hero" />
+</a>
+<a href="https://github.com/matheus-ndc/twitch-app-clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matheus-ndc&repo=twitch-app-clone" />
+</a>
+
+---
+
+<p align="center">Feito com ❤️ por <strong>Matheus do Carmo</strong></p>
 
 [website]: https://mxdev.com.br
 [instagram]: https://instagram.com/matheus_ndc
