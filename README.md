@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=matheus-ndc&style=flat-square)<br>
 ![](https://img.shields.io/github/last-commit/matheus-ndc/matheus-ndc?color=red&style=flat-square)
 
-## I'm a Software Developer!
+## I'm a Full Stack Developer!
 
 - :iphone: I'm currently working on private projects with React that is my favorite framework for views<br>
   and PHP for the back-end and API's
@@ -13,27 +13,34 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Matheus do Carmo | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="Matheus do Carmo on Behance" src="https://img.shields.io/badge/behance-%23E60012.svg?&style=for-the-badge&logo=behance&logoColor=white" />][behance]
-[<img align="left" alt="Matheus do Carmo | Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][medium]
-[<img align="left" alt="matheus_ndc | Instagram" src="https://img.shields.io/badge/instagram-%239146FF.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img align="left" target="_blank" alt="Matheus do Carmo | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" target="_blank" alt="Matheus do Carmo on Behance" src="https://img.shields.io/badge/behance-%23E60012.svg?&style=for-the-badge&logo=behance&logoColor=white" />][behance]
+[<img align="left" target="_blank" alt="Matheus do Carmo | Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][medium]
+[<img align="left" target="_blank" alt="Matheus do Carmo | Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />][stackoverflow]
+[<img align="left" target="_blank" alt="matheus_ndc | Instagram" src="https://img.shields.io/badge/instagram-%239146FF.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 
 <br>
 
 ### Languages and Tools:
 
 [<img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>][devto]
-[<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>][devto]
+[<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>][devto]
 [<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>][devto]
 [<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>][devto]
+[<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>][devto]
 [<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>][devto]
 [<img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>][devto]
 [<img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>][devto]
 [<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>][devto]
 [<img src="https://img.shields.io/badge/jenkins%20-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>][devto]
 [<img src="https://img.shields.io/badge/mysql-%230A0A0A.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>][devto]
-[<img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>][devto]
+[<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>][devto]
 [<img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>][devto]
+
+### It's Party time!
+
+[<img target="_blank" src="https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white"/>][deezer]
+[<img target="_blank" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>][steam]
 
 ---
 
@@ -68,4 +75,7 @@
 [linkedin]: https://linkedin.com/in/matheusndc
 [behance]: https://behance.net/matheusndc
 [medium]: https://medium.com/@matheusndc
-[devto]: https://dev.to/matheusndc
+[stackoverflow]: https://stackoverflow.com/users/6509872/matheus-do-carmo
+[devto]: #
+[deezer]: https://www.deezer.com/br/profile/910568673/playlists
+[steam]: https://steamcommunity.com/id/ManducaFPS/
