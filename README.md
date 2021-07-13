@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=matheus-ndc&style=flat-square)<br>
 ![](https://img.shields.io/github/last-commit/matheus-ndc/matheus-ndc?color=red&style=flat-square)
 
-## I'm a Full Stack Developer!
+## I'm a Software Developer!
 
 - :iphone: I'm currently working on private projects with React that is my favorite framework for views<br>
   and PHP for the back-end and API's
@@ -29,7 +29,7 @@
 [<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>][devto]
 [<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>][devto]
 [<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>][devto]
-[<img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>][devto]
+[<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>][devto]
 [<img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>][devto]
 [<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>][devto]
 [<img src="https://img.shields.io/badge/jenkins%20-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>][devto]
