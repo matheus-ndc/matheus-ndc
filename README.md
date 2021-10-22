@@ -3,13 +3,17 @@
 ![](https://komarev.com/ghpvc/?username=matheus-ndc&style=flat-square)<br>
 ![](https://img.shields.io/github/last-commit/matheus-ndc/matheus-ndc?color=red&style=flat-square)
 
+<br>
+
 ## I'm a Software Developer!
 
 - :iphone: I'm currently working on private projects with React that is my favorite framework for views<br>
-  and PHP for the back-end and API's
-- :seedling: I'm currently increasing my knowledge on mobile apps with React Native
+  and Node/Typescript for the back-end and API's
+- :seedling: I'm currently increasing my knowledge on Clean Architecture and reactive apps with React and Material UI
 - :dart: 2021 Goals: Contribute and make more apps on GitHub and Open Sources projects
 - :joystick: Fun fact: I :heart: to code & play FPS/RTS strategy games :crossed_swords:
+
+<br>
 
 ### Connect with me:
 
@@ -20,11 +24,13 @@
 [<img align="left" target="_blank" alt="matheus_ndc | Instagram" src="https://img.shields.io/badge/instagram-%239146FF.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 
 <br>
+<br>
 
 ### Languages and Tools:
 
 [<img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>][devto]
 [<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>][devto]
+[<img src="https://img.shields.io/badge/TypeScript-F05033?style=for-the-badge&logo=typescript&logoColor=black"/>][devto]
 [<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>][devto]
 [<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>][devto]
 [<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>][devto]
@@ -37,21 +43,35 @@
 [<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>][devto]
 [<img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>][devto]
 
-### It's Party time!
+<br>
 
-[<img target="_blank" src="https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white"/>][deezer]
-[<img target="_blank" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>][steam]
+### Working on [Positivo](https://tecnologia.educacional.com.br/project/mesas-educacionais/) products:
 
----
+<img src="../assets/images/mesa-blocks.png?raw=true"/>
+<img src="../assets/images/mesa-alfabeto.png?raw=true"/>
+<img src="../assets/images/mesa-matematica.png?raw=true"/>
+<img src="../assets/images/mesa-ingles.png?raw=true"/>
+
+<br>
+<br>
+<br>
+<br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheus-ndc&hide=stars,issues,contribs&show_icons=true&count_private=true" />
 </a>
+
+<br>
+<br>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-ndc&exclude_repo=2d-game-engine" />
 </a>
 
----
+<br>
+<br>
+<br>
+<br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matheus-ndc&repo=2d-game-engine" />
@@ -66,7 +86,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matheus-ndc&repo=twitch-app-clone" />
 </a>
 
----
+<br>
+<br>
+<br>
+<br>
 
 <p align="center">Feito com ❤️ por <strong>Matheus do Carmo</strong></p>
 
