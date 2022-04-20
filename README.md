@@ -10,7 +10,7 @@
 - :iphone: I'm currently working on private projects with React that is my favorite framework for views<br>
   and Node/Typescript for the back-end and API's
 - :seedling: I'm currently increasing my knowledge on Clean Architecture and reactive apps with React and Material UI
-- :dart: 2021 Goals: Contribute and make more apps on GitHub and Open Sources projects
+- :dart: 2022 Goals: Contribute and make more apps on GitHub/GitLab and Open Sources projects
 - :joystick: Fun fact: I :heart: to code & play FPS/RTS strategy games :crossed_swords:
 
 <br>
@@ -42,15 +42,6 @@
 [<img src="https://img.shields.io/badge/mysql-%230A0A0A.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>][devto]
 [<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>][devto]
 [<img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>][devto]
-
-<br>
-
-### Working on [Positivo](https://tecnologia.educacional.com.br/project/mesas-educacionais/) products:
-
-<img src="../assets/images/mesa-blocks.png?raw=true"/>
-<img src="../assets/images/mesa-alfabeto.png?raw=true"/>
-<img src="../assets/images/mesa-matematica.png?raw=true"/>
-<img src="../assets/images/mesa-ingles.png?raw=true"/>
 
 <br>
 <br>
