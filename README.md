@@ -7,30 +7,28 @@
 
 ## I'm a Software Developer!
 
-- :iphone: I'm currently working on private projects with React that is my favorite framework for views<br>
-  and Node/Typescript for the back-end and API's
-- :seedling: I'm currently increasing my knowledge on Clean Architecture and reactive apps with React and Material UI
-- :dart: 2022 Goals: Contribute and make more apps on GitHub/GitLab and Open Sources projects
-- :joystick: Fun fact: I :heart: to code & play FPS/RTS strategy games :crossed_swords:
+- :office_worker: 14 years of experience and working on private projects as backend engineer, developing API's :door: <br>
+- :seedling: I'm building a 2D game engine with C++ using Lua as script language :joystick: :video_game:
+- :dart: Contribute and make more apps on GitHub/GitLab and Open Sources projects :unlock:
 
 <br>
 
-### Connect with me:
+### Contact me:
 
-[<img align="left" target="_blank" alt="Matheus do Carmo | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" target="_blank" alt="Matheus do Carmo on Behance" src="https://img.shields.io/badge/behance-%23E60012.svg?&style=for-the-badge&logo=behance&logoColor=white" />][behance]
-[<img align="left" target="_blank" alt="Matheus do Carmo | Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][medium]
-[<img align="left" target="_blank" alt="Matheus do Carmo | Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />][stackoverflow]
-[<img align="left" target="_blank" alt="matheus_ndc | Instagram" src="https://img.shields.io/badge/instagram-%239146FF.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img align="left" target="_blank" alt="Matheus do Carmo | LinkedIn" src="https://img.shields.io/badge/linkedin-000000.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" target="_blank" alt="matheus_ndc | Instagram" src="https://img.shields.io/badge/instagram-ffffff.svg?&style=for-the-badge&logo=instagram&logoColor=instagram" />][instagram]
 
 <br>
 <br>
 
 ### Languages and Tools:
 
-[<img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>][devto]
+[<img src="https://img.shields.io/badge/dotnet-%231572B6.svg?&style=for-the-badge&logo=csharp&logoColor=white"/>][devto]
 [<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>][devto]
 [<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white"/>][devto]
+[<img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>][devto]
+[<img src="https://img.shields.io/badge/python%20-%23E34F26.svg?&style=for-the-badge&logo=python&logoColor=white"/>][devto]
+[<img src="https://img.shields.io/badge/c++-000000.svg?&style=for-the-badge&logo=cplusplus&logoColor=white"/>][devto]
 [<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>][devto]
 [<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>][devto]
 [<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>][devto]
@@ -41,16 +39,13 @@
 [<img src="https://img.shields.io/badge/jenkins%20-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>][devto]
 [<img src="https://img.shields.io/badge/mysql-%230A0A0A.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>][devto]
 [<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>][devto]
-[<img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>][devto]
+[<img src="https://img.shields.io/badge/shell_script-ffffff.svg?&style=for-the-badge&logo=gnu-bash&logoColor=gnu-bash"/>][devto]
 
 <br>
-<br>
-<br>
-<br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheus-ndc&hide=stars,issues,contribs&show_icons=true&count_private=true" />
-</a>
+### Experiences/Jobs:
+
+[<img src="https://github.com/matheus-ndc/matheus-ndc/blob/assets/images/experiences.png?raw=true"/>][devto]
 
 <br>
 <br>
@@ -61,20 +56,9 @@
 
 <br>
 <br>
-<br>
-<br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matheus-ndc&repo=2d-game-engine" />
-</a>
-<a href="https://github.com/matheus-ndc/crypto-merkel-and-patricia-tree">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matheus-ndc&repo=crypto-merkel-and-patricia-tree" />
-</a>
-<a href="https://github.com/matheus-ndc/be-the-hero">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matheus-ndc&repo=be-the-hero" />
-</a>
-<a href="https://github.com/matheus-ndc/twitch-app-clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matheus-ndc&repo=twitch-app-clone" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matheus-ndc&repo=mx2d-game-engine" />
 </a>
 
 <br>
