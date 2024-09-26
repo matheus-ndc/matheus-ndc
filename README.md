@@ -5,7 +5,7 @@
 
 <br>
 
-## I'm a Software Developer!
+## I'm a Software Engineer!
 
 - :office_worker: 14 years of experience and working on private projects as backend engineer, developing API's :door: <br>
 - :seedling: I'm building a 2D game engine with C++ using Lua as script language :joystick: :video_game:
@@ -45,20 +45,13 @@
 
 ### Experiences/Jobs:
 
-[<img src="https://github.com/matheus-ndc/matheus-ndc/blob/assets/images/experiences.png?raw=true"/>][devto]
+[<img src="https://github.com/matheus-ndc/matheus-ndc/blob/assets/images/Experiences.png?raw=true"/>][devto]
 
 <br>
 <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-ndc&exclude_repo=2d-game-engine" />
-</a>
-
-<br>
-<br>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matheus-ndc&repo=mx2d-game-engine" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-ndc&hide_progress=true" />
 </a>
 
 <br>
