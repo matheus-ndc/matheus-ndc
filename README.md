@@ -5,10 +5,6 @@
 
 <br>
 
-<h2 align="center" style="font-weight:bold;">I'm a Software Engineer! 🖥️🎮💻📱👷‍♂️</h2>
-
-<br>
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="375px" max-width="375px" width="375px" align="right">
 
 <p align="left">
