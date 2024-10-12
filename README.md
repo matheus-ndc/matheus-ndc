@@ -1,60 +1,85 @@
-### Hi there, :wave:
+#### Hi there :wave:
 
-![](https://komarev.com/ghpvc/?username=matheus-ndc&style=flat-square)<br>
+![](https://komarev.com/ghpvc/?username=matheus-ndc&style=flat-square)
 ![](https://img.shields.io/github/last-commit/matheus-ndc/matheus-ndc?color=red&style=flat-square)
 
 <br>
 
-## I'm a Software Engineer!
-
-- :office_worker: 14 years of experience and working on private projects as backend engineer, developing API's :door: <br>
-- :seedling: I'm building a 2D game engine with C++ using Lua as script language :joystick: :video_game:
-- :dart: Contribute and make more apps on GitHub/GitLab and Open Sources projects :unlock:
+<h2 align="center" style="font-weight:bold;">I'm a Software Engineer! 🖥️🎮💻📱👷‍♂️</h2>
 
 <br>
 
-### Contact me:
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="375px" max-width="375px" width="375px" align="right">
 
-[<img align="left" target="_blank" alt="Matheus do Carmo | LinkedIn" src="https://img.shields.io/badge/linkedin-000000.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" target="_blank" alt="matheus_ndc | Instagram" src="https://img.shields.io/badge/instagram-ffffff.svg?&style=for-the-badge&logo=instagram&logoColor=instagram" />][instagram]
-
-<br>
-<br>
-
-### Languages and Tools:
-
-[<img src="https://img.shields.io/badge/dotnet-%231572B6.svg?&style=for-the-badge&logo=csharp&logoColor=white"/>][devto]
-[<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>][devto]
-[<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white"/>][devto]
-[<img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>][devto]
-[<img src="https://img.shields.io/badge/python%20-%23E34F26.svg?&style=for-the-badge&logo=python&logoColor=white"/>][devto]
-[<img src="https://img.shields.io/badge/c++-000000.svg?&style=for-the-badge&logo=cplusplus&logoColor=white"/>][devto]
-[<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>][devto]
-[<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>][devto]
-[<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>][devto]
-[<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>][devto]
-[<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>][devto]
-[<img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>][devto]
-[<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>][devto]
-[<img src="https://img.shields.io/badge/jenkins%20-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>][devto]
-[<img src="https://img.shields.io/badge/mysql-%230A0A0A.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>][devto]
-[<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>][devto]
-[<img src="https://img.shields.io/badge/shell_script-ffffff.svg?&style=for-the-badge&logo=gnu-bash&logoColor=gnu-bash"/>][devto]
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,php,java,androidstudio,electron,python,js,nodejs,ts,html,css,tailwind,react,angular,docker,jenkins,kubernetes,terraform,ansible,git,grafana,graphql,go,gcp,azure,aws,figma,eclipse,visualstudio,vim,bash,matlab,windows,linux&perline=10" />
+  </a>
+</p>
 
 <br>
 
-### Experiences/Jobs:
-
-[<img src="https://github.com/matheus-ndc/matheus-ndc/blob/assets/images/Experiences.png?raw=true"/>][devto]
-
-<br>
-<br>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-ndc&hide_progress=true" />
-</a>
+<p align="left">
+  <a href="mailto:matheusnevesdocarmo@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://linkedin.com/in/matheusndc" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/matheus_ndc" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
 
 <br>
+
+<table style="border: 0;">
+  <tr>
+    <td align="center">
+      <h3 style="font-weight:bold;">🏆 GitHub Profile Trophy</h3>
+    </td>
+    <td align="center">
+      <h3 style="font-weight:bold;">🤝 Collaborators</h3>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="#">
+        <img src="https://github-profile-trophy.vercel.app/?username=matheus-ndc&title=Experience,Repositories&theme=radical&no-frame=true&margin-w=15&column=-1"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://t.ctcdn.com.br/n7eZ74KAcU3iYwnQ89-ul9txVxc=/400x400/smart/filters:format(webp)/i490769.jpeg" width="100px;" alt="Elon Musk Picture"/><br>
+        <sub>
+          <b>Elon Musk</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://s2.glbimg.com/FUcw2usZfSTL6yCCGj3L3v3SpJ8=/smart/e.glbimg.com/og/ed/f/original/2019/04/25/zuckerberg_podcast.jpg" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
+        <sub>
+          <b>Mark Zuckerberg</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg" width="100px;" alt="Foto do Steve Jobs"/><br>
+        <sub>
+          <b>Steve Jobs</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+      </a>
+    </td>
+  </tr>
+</table>
+
 <br>
 <br>
 <br>
@@ -62,8 +87,6 @@
 <p align="center">Feito com ❤️ por <strong>Matheus do Carmo</strong></p>
 
 [website]: https://www.mxdev.com.br
-[instagram]: https://instagram.com/matheus_ndc
-[linkedin]: https://linkedin.com/in/matheusndc
 [behance]: https://behance.net/matheusndc
 [medium]: https://medium.com/@matheusndc
 [stackoverflow]: https://stackoverflow.com/users/6509872/matheus-do-carmo
