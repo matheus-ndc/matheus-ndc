@@ -35,7 +35,7 @@ Tecnologias: `Node`, `React`, `Typescript`, `Electron`, `Loopback`, `AWS`
 
 <hr>
 
-#### 🖼️ Gallery
+### 🖼️ Gallery
 
 <table>
   <tr>
@@ -78,12 +78,12 @@ Tecnologias: `Node`, `React`, `Typescript`, `Electron`, `Loopback`, `AWS`
 
 <hr>
 
-#### 🏆 GitHub Profile Trophy
+### 🏆 GitHub Profile Trophy
 <img src="https://github-profile-trophy.vercel.app/?username=matheus-ndc&title=Experience,Repositories&theme=radical&no-frame=true&margin-w=15&column=-1"/>
 
 <hr>
 
-#### 🤝 Collaborators
+### 🤝 Collaborators
         
 <table>
   <tr>
@@ -116,7 +116,7 @@ Tecnologias: `Node`, `React`, `Typescript`, `Electron`, `Loopback`, `AWS`
 
 <hr>
 
-#### 📞 Contact me
+### 📞 Contact me
 
 <p align="left">
   <a href="mailto:matheusnevesdocarmo@gmail.com" title="Gmail">
