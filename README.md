@@ -132,4 +132,4 @@ Tecnologias: `Node`, `React`, `Typescript`, `Electron`, `Loopback`, `AWS`
 <br>
 <br>
 
-<p align="center">Feito com ❤️ por <strong>Matheus do Carmo</strong></p>
+<p align="center">Made with ❤️ by <strong>Matheus do Carmo</strong></p>
