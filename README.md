@@ -3,11 +3,15 @@
 ![](https://komarev.com/ghpvc/?username=matheus-ndc&style=flat-square)
 ![](https://img.shields.io/github/last-commit/matheus-ndc/matheus-ndc?color=red&style=flat-square)
 
+<a href="https://www.vagaspj.com.br/storage/curriculos/1729029746_Matheus_-_CV_Dev_S__nior.pdf">
+  <img src="../assets/images/cv-button.png" alt="resume download button" min-width="160px" max-width="160px" width="160px"/>
+</a>
+
 <hr>
 
 ### 👨‍💻 Tech Stack
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="375px" max-width="375px" width="375px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="illustration of a computer" min-width="375px" max-width="375px" width="375px" align="right">
 
 <p align="left">
   <a href="https://skillicons.dev">
