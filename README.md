@@ -23,15 +23,22 @@
 
 **.NET Backend Developer** \
 [**Cencosud S.A.**](https://www.cencosud.com/) • Full-time \
-Linguagens: `C#`, `PHP`, `Python`, `JavaScript`, `Bashscript` \
-Tecnologias: `ASP.NET`, `EF`, `ABP`, `Node`, `AWS`, `Sonarqube`, `Jira`, `Confluence`
+Linguagens: `C#`, `Python`, `Javascript`, `Bashscript` \
+Tecnologias: `ASP.NET`, `EF`, `ABP`, `Node`, `AWS`, `Sonarqube`, `Jira`, `Confluence` ...
 
 [<img align="left" height="94px" width="94px" alt="Educacional" src="https://media.licdn.com/dms/image/v2/D4D0BAQERR1EV7UPpeQ/company-logo_200_200/company-logo_200_200/0/1720101310844/educacional_ecossistema_logo?e=1736985600&v=beta&t=ZsHWoLWBsAjGvhlzWLb-JBzyw8MOuPzY0Ow3y2wep6w"/>](https://educacional.com.br/)
 
 **Full Stack Developer** \
 [**Positivo Educacional**](https://educacional.com.br/) • Full-time \
 Linguagens: `Javascript`, `Python` \
-Tecnologias: `Node`, `React`, `Typescript`, `Electron`, `Loopback`, `AWS`
+Tecnologias: `Node`, `React`, `Typescript`, `Electron`, `Express`, `Loopback`, `React-Hooks`, `Redux`, `GraphQL`, `AWS` ...
+
+[<img align="left" height="94px" width="94px" alt="Sinetram" src="https://media.licdn.com/dms/image/v2/D4D0BAQEqlGNwup_xEA/company-logo_200_200/company-logo_200_200/0/1723752717000/sinetram_logo?e=1736985600&v=beta&t=n7noTiinFH45YWO7lpeAUOMyH-UaPhhVD8ulRbsium0"/>](https://www.sinetram.com.br/)
+
+**Full Stack Developer** \
+[**Sinetram**](https://www.sinetram.com.br/) • Full-time \
+Linguagens: `PHP`, `Javascript`, `Python`, `Bashscript` \
+Tecnologias: `CodeIgniter`, `ES5`, `Ajax`, `Google API`, `OSM API`, `Postgis`, `Pentaho`, `Docker` ...
 
 <hr>
 
