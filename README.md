@@ -11,7 +11,8 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,php,java,androidstudio,electron,python,js,nodejs,ts,html,css,tailwind,react,angular,docker,jenkins,kubernetes,terraform,ansible,git,grafana,graphql,go,gcp,azure,aws,figma,eclipse,visualstudio,vim,bash,matlab,windows,linux&perline=8" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,php,java,androidstudio,electron,python,js,nodejs,ts,html,css,tailwind,react,angular&perline=7" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,ansible,git,grafana,graphql,go,gcp,azure,aws,figma,eclipse,visualstudio,vim,bash,matlab,windows,linux&perline=7" />
   </a>
 </p>
 
