@@ -3,10 +3,6 @@
 ![](https://komarev.com/ghpvc/?username=matheus-ndc&style=flat-square)
 ![](https://img.shields.io/github/last-commit/matheus-ndc/matheus-ndc?color=red&style=flat-square)
 
-<a href="https://www.vagaspj.com.br/storage/curriculos/1729029746_Matheus_-_CV_Dev_S__nior.pdf">
-  <img src="../assets/images/cv-button.png" alt="resume download button" min-width="160px" max-width="160px" width="160px"/>
-</a>
-
 <hr>
 
 ### 👨‍💻 Tech Stack
@@ -44,6 +40,16 @@ Tecnologias: `Node`, `React`, `Typescript`, `Electron`, `Express`, `Loopback`, `
 [**Sinetram**](https://www.sinetram.com.br/) • Full-time \
 Linguagens: `PHP`, `Javascript`, `Python`, `Bashscript` \
 Tecnologias: `CodeIgniter`, `ES5`, `Ajax`, `Google API`, `OSM API`, `Postgis`, `Pentaho`, `Docker` ...
+
+#### Download my CV
+
+<a href="https://1drv.ms/b/c/24a793788d08b5a0/EaI-Dkdd_IpBhfO89XkFnjcBr6BDI4H2j6qa8feIK_VQTw?e=uQZTYO">
+  <img src="https://flagicons.lipis.dev/flags/4x3/br.svg" alt="Brazil flag" min-width="40px" max-width="40px" width="40px"/>
+</a>
+
+<a href="https://1drv.ms/b/c/24a793788d08b5a0/EY305wSyfShGmtbNbh_VLWkB-vtRMUGXSnOK_FdCFhTxAw?e=nTrJ1p">
+  <img src="https://flagicons.lipis.dev/flags/4x3/us.svg" alt="Usa flag" min-width="40px" max-width="40px" width="40px"/>
+</a>
 
 <hr>
 
@@ -145,3 +151,5 @@ Tecnologias: `CodeIgniter`, `ES5`, `Ajax`, `Google API`, `OSM API`, `Postgis`, `
 <br>
 
 <p align="center">Made with ❤️ by <strong>Matheus do Carmo</strong></p>
+
+<br>
