@@ -7,14 +7,16 @@
 
 ### 👨‍💻 Tech Stack
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="illustration of a computer" min-width="375px" max-width="375px" width="375px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="illustration of a computer" min-width="450px" max-width="450px" width="450px" align="right">
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,php,java,androidstudio,electron,python,js,nodejs,ts,html,css,tailwind,react,angular&perline=7" />
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,ansible,git,grafana,graphql,go,gcp,azure,aws,figma,eclipse,visualstudio,vim,bash,matlab,windows,linux&perline=7" />
-  </a>
-</p>
+#### 🤖 Languages
+<img src="https://skillicons.dev/icons?i=html,css,js,cs,python,php,bash&perline=5" />
+
+#### 📚 Libs & Frameworks
+<img src="https://skillicons.dev/icons?i=ts,nodejs,express,next,nest,dotnet,tailwind,electron,react,angular,graphql,django,flask,fastapi,laravel,symfony,hibernate,prisma&perline=6" />
+
+#### 🛠️ DevOps & Infra
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,jenkins,terraform,githubactions,gitlab,grafana,gcp,azure,aws,eclipse,visualstudio,windows,linux&perline=7" />
 
 <hr>
 
@@ -73,25 +75,6 @@ Tecnologias: `CodeIgniter`, `ES5`, `Ajax`, `Google API`, `OSM API`, `Postgis`, `
         </sub>
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="#">
-        <img src="https://instagram.fpll2-1.fna.fbcdn.net/v/t51.29350-15/277856304_479224390553328_7570594327219550970_n.webp?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi43NjZ4NzY2LnNkci5mMjkzNTAuZGVmYXVsdF9pbWFnZSJ9&_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=5tuFCp1mVPgQ7kNvgG6GQLf&_nc_gid=49c9a8572f4741beaeb812c44b7bcf65&edm=APoiHPcBAAAA&ccb=7-5&ig_cache_key=MjgxMTQxMTY2MjAyMTM3NDIwMw%3D%3D.3-ccb7-5&oh=00_AYDDce6Vlx40zl-UsfaKPQHty_RiBXAh6fF92S4krNAmLA&oe=671460BA&_nc_sid=22de04" height="350px;" alt="Lunch with the team at a steakhouse"/><br>
-        <sub>
-          <b>Lunch with the team at a steakhouse</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://instagram.fpll2-1.fna.fbcdn.net/v/t51.29350-15/277989879_150298877470917_4260318785668898401_n.webp?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi45MTB4Nzc3LnNkci5mMjkzNTAuZGVmYXVsdF9pbWFnZSJ9&_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=ZBi7XhuKu_oQ7kNvgGe4TQF&_nc_gid=fe63849e49914097bc4e8768355feb99&edm=AP4sbd4BAAAA&ccb=7-5&ig_cache_key=MjgxMTUwMjMxODIzNjY2MTgyNA%3D%3D.3-ccb7-5&oh=00_AYAPYiEZF8w3q5avB0_OYPnmRku0WBzHupOtRWlYawQi9Q&oe=671472DB&_nc_sid=7a9f4b" height="350px;" alt="Positivo/CITS Squad"/><br>
-        <sub>
-          <b>Positivo/CITS Squad</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
 </table>
 
 <hr>
