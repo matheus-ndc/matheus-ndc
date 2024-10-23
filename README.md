@@ -61,7 +61,7 @@ Tecnologias: `CodeIgniter`, `ES5`, `Ajax`, `Google API`, `OSM API`, `Postgis`, `
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://instagram.fpll2-1.fna.fbcdn.net/v/t51.29350-15/275600143_688150215710696_5614297552024654375_n.webp?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi43Njh4NzY4LnNkci5mMjkzNTAuZGVmYXVsdF9pbWFnZSJ9&_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=4EZth-ahQGcQ7kNvgE6a5Bn&_nc_gid=1b46207a0c3e4f78b1b193e3bc4ccc0f&edm=APoiHPcBAAAA&ccb=7-5&ig_cache_key=Mjc5MzA1MjUwMjUxMTYzMTM0MA%3D%3D.3-ccb7-5&oh=00_AYAXv99TVy52oyujah5rEK3QuabwV7-uwrNeITqrD1AyNQ&oe=67147CD2&_nc_sid=22de04" height="350px;" alt="Me my Dad and Sister"/><br>
+        <img src="../refs/heads/assets/family.jpg" height="350px;" alt="Me my Dad and Sister"/><br>
         <sub>
           <b>Me my Dad and Sister</b>
         </sub>
@@ -69,7 +69,7 @@ Tecnologias: `CodeIgniter`, `ES5`, `Ajax`, `Google API`, `OSM API`, `Postgis`, `
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://instagram.fpll2-1.fna.fbcdn.net/v/t51.29350-15/277964028_178461887838755_34814532193954064_n.webp?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi45MTJ4NzY4LnNkci5mMjkzNTAuZGVmYXVsdF9pbWFnZSJ9&_nc_ht=instagram.fpll2-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=FEz1PCwtQKMQ7kNvgGsvlBU&_nc_gid=fe63849e49914097bc4e8768355feb99&edm=AP4sbd4BAAAA&ccb=7-5&ig_cache_key=MjgxMjA0MDcyMDExOTgxMDU4MA%3D%3D.3-ccb7-5&oh=00_AYDDl2moo8qR0vq9NLlzKe0LyCiQ99O4Jmdyp5eFZxdPug&oe=67148390&_nc_sid=7a9f4b" height="350px;" alt="Positivo IoT Squad"/><br>
+        <img src="../refs/heads/assets/positivo-squad.jpg" height="350px;" alt="Positivo IoT Squad"/><br>
         <sub>
           <b>Positivo IoT Squad</b>
         </sub>
