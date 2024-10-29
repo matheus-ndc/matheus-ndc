@@ -16,7 +16,7 @@
 <img src="https://skillicons.dev/icons?i=ts,nodejs,express,next,nest,dotnet,tailwind,electron,react,angular,graphql,django,flask,fastapi,laravel,symfony,hibernate,prisma&perline=6" />
 
 #### 🛠️ DevOps & Infra
-<img src="https://skillicons.dev/icons?i=kubernetes,docker,jenkins,terraform,githubactions,gitlab,grafana,gcp,azure,aws,eclipse,visualstudio,windows,linux&perline=7" />
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,jenkins,terraform,githubactions,gitlab,grafana,gcp,azure,aws,ansible,visualstudio,windows,linux&perline=7" />
 
 <hr>
 
