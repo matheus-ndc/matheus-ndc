@@ -10,7 +10,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="illustration of a computer" min-width="450px" max-width="450px" width="450px" align="right">
 
 #### 🤖 Languages
-<img src="https://skillicons.dev/icons?i=html,css,js,cs,python,php,bash&perline=5" />
+<img src="https://skillicons.dev/icons?i=html,css,js,cs,python,java,php,bash&perline=5" />
 
 #### 📚 Libs & Frameworks
 <img src="https://skillicons.dev/icons?i=ts,nodejs,express,next,nest,dotnet,tailwind,electron,react,angular,graphql,django,flask,fastapi,laravel,symfony,hibernate,prisma&perline=6" />
