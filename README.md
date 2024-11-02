@@ -73,7 +73,7 @@ Tecnologias: `CodeIgniter`, `ES5`, `Ajax`, `Google API`, `OSM API`, `Postgis`, `
 <img width="14" height="14" src="https://img.icons8.com/fluency/48/memory-slot.png" alt="memory-slot"/>4x32 128GB RAM<br>
 <img width="14" height="14" src="https://img.icons8.com/fluency/48/ssd--v1.png" alt="ssd--v1"/>2TB HD / 1TB M.2 SSD<br>
 
-<br>
+<hr>
 
 ### 🖼️ Gallery
 
