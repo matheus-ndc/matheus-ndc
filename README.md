@@ -55,6 +55,26 @@ Tecnologias: `CodeIgniter`, `ES5`, `Ajax`, `Google API`, `OSM API`, `Postgis`, `
 
 <hr>
 
+### 🔧 Workstation
+
+<img src="../refs/heads/assets/workstation.png" alt="my workstation printscreen - arch linux with hyprland and waybar" min-width="550px" max-width="550px" width="550px" align="right">
+
+#### 💻 Dell Latitude 3420
+
+<img width="14" height="14" src="https://img.icons8.com/fluency/48/operating-system.png" alt="operating-system"/>Arch Linux<br>
+<img width="14" height="14" src="https://img.icons8.com/fluency/48/processor.png" alt="processor"/>Intel i5 11Gen<br>
+<img width="14" height="14" src="https://img.icons8.com/fluency/48/memory-slot.png" alt="memory-slot"/>16GB RAM<br>
+<img width="14" height="14" src="https://img.icons8.com/fluency/48/ssd--v1.png" alt="ssd--v1"/>256GB NVMe M.2 SSD<br>
+
+#### 🏗️ Home Server Lab
+
+<img width="14" height="14" src="https://img.icons8.com/fluency/48/operating-system.png" alt="operating-system"/>Ubuntu Server 24.04.1 LTS<br>
+<img width="14" height="14" src="https://img.icons8.com/fluency/48/processor.png" alt="processor"/>Xeon E5 2680V4 14 cores/28 threads<br>
+<img width="14" height="14" src="https://img.icons8.com/fluency/48/memory-slot.png" alt="memory-slot"/>4x32 128GB RAM<br>
+<img width="14" height="14" src="https://img.icons8.com/fluency/48/ssd--v1.png" alt="ssd--v1"/>2TB HD / 1TB M.2 SSD<br>
+
+<br>
+
 ### 🖼️ Gallery
 
 <table>
