@@ -8,14 +8,8 @@
 ### 🐳 Navigation
   
 * [ 👨‍💻 Tech Stack ](#-tech-stack)
-   * [ 🤖 Languages ](#-languages)
-   * [ 📚 Libs & Frameworks ](#-libs--frameworks)
-   * [ 🛠 DevOps & Infra ](#-devops--infra)
 * [ 💼 Professional Experience ](#-professional-experience)
-   * [ Download my CV ](#download-my-cv)
 * [ 🔧 Workstation ](#-workstation)
-   * [ 💻 Dell Latitude 3420 @tetrarch ](#-dell-latitude-3420-tetrarch)
-   * [ 🏗 Home Server Lab @tesseract ](#-home-server-lab-tesseract)
 * [ 🖼 Gallery ](#-gallery)
 * [ 🏆 GitHub Profile Trophy ](#-github-profile-trophy)
 * [ 🤝 Collaborators ](#-collaborators)
