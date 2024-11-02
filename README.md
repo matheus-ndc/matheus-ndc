@@ -5,6 +5,24 @@
 
 <hr>
 
+### 🐳 Navigation
+  
+* [ 👨‍💻 Tech Stack ](#-tech-stack)
+   * [ 🤖 Languages ](#-languages)
+   * [ 📚 Libs & Frameworks ](#-libs--frameworks)
+   * [ 🛠 DevOps & Infra ](#-devops--infra)
+* [ 💼 Professional Experience ](#-professional-experience)
+   * [ Download my CV ](#download-my-cv)
+* [ 🔧 Workstation ](#-workstation)
+   * [ 💻 Dell Latitude 3420 @tetrarch ](#-dell-latitude-3420-tetrarch)
+   * [ 🏗 Home Server Lab @tesseract ](#-home-server-lab-tesseract)
+* [ 🖼 Gallery ](#-gallery)
+* [ 🏆 GitHub Profile Trophy ](#-github-profile-trophy)
+* [ 🤝 Collaborators ](#-collaborators)
+* [ 📞 Contact me ](#-contact-me)
+
+<hr>
+
 ### 👨‍💻 Tech Stack
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="illustration of a computer" min-width="450px" max-width="450px" width="450px" align="right">
@@ -15,7 +33,7 @@
 #### 📚 Libs & Frameworks
 <img src="https://skillicons.dev/icons?i=ts,nodejs,express,next,nest,dotnet,tailwind,electron,react,angular,graphql,django,flask,fastapi,laravel,symfony,hibernate,prisma&perline=6" />
 
-#### 🛠️ DevOps & Infra
+#### 🛠 DevOps & Infra
 <img src="https://skillicons.dev/icons?i=kubernetes,docker,jenkins,terraform,githubactions,gitlab,grafana,gcp,azure,aws,ansible,visualstudio,windows,linux&perline=7" />
 
 <hr>
@@ -66,7 +84,7 @@ Tecnologias: `CodeIgniter`, `ES5`, `Ajax`, `Google API`, `OSM API`, `Postgis`, `
 <img width="14" height="14" src="https://img.icons8.com/fluency/48/memory-slot.png" alt="memory-slot"/>16GB RAM<br>
 <img width="14" height="14" src="https://img.icons8.com/fluency/48/ssd--v1.png" alt="ssd--v1"/>256GB NVMe M.2 SSD<br>
 
-#### 🏗️ Home Server Lab [@tesseract](https://universocinematograficomarvel.fandom.com/pt-br/wiki/Tesseract)
+#### 🏗 Home Server Lab [@tesseract](https://universocinematograficomarvel.fandom.com/pt-br/wiki/Tesseract)
 
 <img width="14" height="14" src="https://img.icons8.com/fluency/48/operating-system.png" alt="operating-system"/>Ubuntu Server 24.04.1 LTS<br>
 <img width="14" height="14" src="https://img.icons8.com/fluency/48/processor.png" alt="processor"/>Xeon E5 2680V4 14 cores/28 threads<br>
@@ -78,7 +96,7 @@ Tecnologias: `CodeIgniter`, `ES5`, `Ajax`, `Google API`, `OSM API`, `Postgis`, `
 <br>
 <hr>
 
-### 🖼️ Gallery
+### 🖼 Gallery
 
 <table>
   <tr>
