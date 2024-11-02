@@ -71,14 +71,14 @@ Tecnologias: `CodeIgniter`, `ES5`, `Ajax`, `Google API`, `OSM API`, `Postgis`, `
 
 <img src="../refs/heads/assets/workstation.png" alt="my workstation printscreen - arch linux with hyprland and waybar" min-width="550px" max-width="550px" width="550px" align="right">
 
-#### 💻 Dell Latitude 3420 <a href="https://elemarjr.com/arquivo/os-quatro-dominios-camadas-da-arquitetura-corporativa/" target="_blank">@tetrarch</a>
+#### 💻 Dell Latitude 3420 [@tetrarch](https://elemarjr.com/arquivo/os-quatro-dominios-camadas-da-arquitetura-corporativa/)
 
 <img width="14" height="14" src="https://img.icons8.com/fluency/48/operating-system.png" alt="operating-system"/>Arch Linux<br>
 <img width="14" height="14" src="https://img.icons8.com/fluency/48/processor.png" alt="processor"/>Intel i5 11Gen<br>
 <img width="14" height="14" src="https://img.icons8.com/fluency/48/memory-slot.png" alt="memory-slot"/>16GB RAM<br>
 <img width="14" height="14" src="https://img.icons8.com/fluency/48/ssd--v1.png" alt="ssd--v1"/>256GB NVMe M.2 SSD<br>
 
-#### 🏗 Home Server Lab <a href="https://universocinematograficomarvel.fandom.com/pt-br/wiki/Tesseract" target="_blank">@tesseract</a>
+#### 🏗 Home Server Lab [@tesseract](https://universocinematograficomarvel.fandom.com/pt-br/wiki/Tesseract)
 
 <img width="14" height="14" src="https://img.icons8.com/fluency/48/operating-system.png" alt="operating-system"/>Ubuntu Server 24.04.1 LTS<br>
 <img width="14" height="14" src="https://img.icons8.com/fluency/48/processor.png" alt="processor"/>Xeon E5 2680V4 14 cores/28 threads<br>
