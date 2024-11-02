@@ -34,7 +34,7 @@ Tecnologias: `ASP.NET`, `EF`, `ABP`, `Node`, `AWS`, `Sonarqube`, `Jira`, `Conflu
 **Full Stack Developer** \
 [**Positivo Educacional**](https://educacional.com.br/) • Full-time \
 Linguagens: `Javascript`, `Python` \
-Tecnologias: `Node`, `React`, `Typescript`, `Electron`, `Express`, `Loopback`, `React-Hooks`, `Redux`, `GraphQL`, `AWS` ...
+Tecnologias: `Node`, `React`, `Typescript`, `Electron`, `Express`, `Loopback`, `React-Hooks`, `Redux`, `AWS` ...
 
 [<img align="left" height="94px" width="94px" alt="Sinetram" src="https://media.licdn.com/dms/image/v2/D4D0BAQEqlGNwup_xEA/company-logo_200_200/company-logo_200_200/0/1723752717000/sinetram_logo?e=1736985600&v=beta&t=n7noTiinFH45YWO7lpeAUOMyH-UaPhhVD8ulRbsium0"/>](https://www.sinetram.com.br/)
 
