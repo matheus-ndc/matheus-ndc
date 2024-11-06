@@ -8,6 +8,7 @@
 ### 🐳 Navigation
   
 * [ 👨‍💻 Tech Stack ](#-tech-stack)
+* [ 👨‍🎓 Education ](#-education)
 * [ 💼 Professional Experience ](#-professional-experience)
 * [ 🔧 Workstation ](#-workstation)
 * [ 🖼 Gallery ](#-gallery)
@@ -30,6 +31,26 @@
 #### 🛠 DevOps & Infra
 <img src="https://skillicons.dev/icons?i=kubernetes,docker,jenkins,terraform,githubactions,gitlab,grafana,gcp,azure,aws,ansible,visualstudio,windows,linux&perline=7" />
 
+<hr>
+
+### 👨‍🎓 Education
+
+[<img align="left" height="94px" width="94px" alt="Wyden" src="https://media.licdn.com/dms/image/v2/C4D0BAQFbeOKsqZ_vfA/company-logo_100_100/company-logo_100_100/0/1633358764152/fmf_faculdade_martha_falco_logo?e=1738800000&v=beta&t=FwH9njYLOUtibOpplZOPWnBynd0CAHo_gTiXK0AMflE"/>](https://www.wyden.com.br/)
+
+**Faculdade Martha Falcão** \
+[**Wyden**](https://www.wyden.com.br/) • Bachelor's Degree of Software Engineer \
+MEC/IGC Rank: ⭐⭐⭐⭐ \
+`2024` - `At this moment`
+
+
+[<img align="left" height="94px" width="94px" alt="Fucapi" src="https://media.licdn.com/dms/image/v2/C4E0BAQG7mvLP4S7KQQ/company-logo_100_100/company-logo_100_100/0/1630581469877?e=1738800000&v=beta&t=fDw-9tA7vh83ZDihWeW3xRen9KRJp2X8t9lpeUyu5JM"/>](https://fucapi.edu.br/)
+
+**Fundação Centro de Análise, Pesquisa e Inovação Tecnológica** \
+[**Fucapi**](https://fucapi.edu.br/) • Bachelor's Degree of Computer Engineer \
+MEC/IGC Rank: ⭐⭐⭐⭐ \
+Year: `2010` - `2014` `Incomplete`
+
+<br>
 <hr>
 
 ### 💼 Professional Experience
