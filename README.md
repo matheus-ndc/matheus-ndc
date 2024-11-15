@@ -117,7 +117,7 @@ Tecnologias: `CodeIgniter`, `ES5`, `Ajax`, `Google API`, `OSM API`, `Postgis`, `
   <tr>
     <td align="center">
       <a href="#">
-        <img src="../refs/heads/assets/family.jpg" height="350px;" alt="Me my Dad and Sister"/><br>
+        <img src="https://raw.githubusercontent.com/matheus-ndc/matheus-ndc/refs/heads/assets/family.jpg" height="350px;" alt="Me my Dad and Sister"/><br>
         <sub>
           <b>Me my Dad and Sister</b>
         </sub>
@@ -125,7 +125,7 @@ Tecnologias: `CodeIgniter`, `ES5`, `Ajax`, `Google API`, `OSM API`, `Postgis`, `
     </td>
     <td align="center">
       <a href="#">
-        <img src="../refs/heads/assets/positivo-squad.jpg" height="350px;" alt="Positivo IoT Squad"/><br>
+        <img src="https://raw.githubusercontent.com/matheus-ndc/matheus-ndc/refs/heads/assets/positivo-squad.jpg" height="350px;" alt="Positivo IoT Squad"/><br>
         <sub>
           <b>Positivo IoT Squad</b>
         </sub>
