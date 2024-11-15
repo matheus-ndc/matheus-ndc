@@ -90,7 +90,7 @@ Tecnologias: `CodeIgniter`, `ES5`, `Ajax`, `Google API`, `OSM API`, `Postgis`, `
 
 ### 🔧 Workstation
 
-<img src="../refs/heads/assets/workstation.png" alt="my workstation printscreen - arch linux with hyprland and waybar" min-width="550px" max-width="550px" width="550px" align="right">
+<img src="https://github.com/matheus-ndc/matheus-ndc/refs/heads/assets/workstation.png" alt="my workstation printscreen - arch linux with hyprland and waybar" min-width="550px" max-width="550px" width="550px" align="right">
 
 #### 💻 Dell Latitude 3420 [@tetrarch](https://elemarjr.com/arquivo/os-quatro-dominios-camadas-da-arquitetura-corporativa/)
 
