@@ -1,7 +1,7 @@
 ### 👋 Hi there!
 
-![](https://komarev.com/ghpvc/?username=matheus-ndc&style=flat-square)
-![](https://img.shields.io/github/last-commit/matheus-ndc/matheus-ndc?color=red&style=flat-square)
+![](https://komarev.com/ghpvc/?username=matheus-ndc&style=flat)
+![](https://img.shields.io/github/last-commit/matheus-ndc/matheus-ndc?color=red&style=flat)
 
 <hr>
 
@@ -23,13 +23,13 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="illustration of a computer" min-width="450px" max-width="450px" width="450px" align="right">
 
 #### 🤖 Languages
-<img src="https://skillicons.dev/icons?i=html,css,js,cs,python,java,php,bash&perline=5" />
+<img src="https://skillicons.dev/icons?i=html,css,js,cs,python,java,php,bash&perline=5&theme=light" />
 
 #### 📚 Libs & Frameworks
-<img src="https://skillicons.dev/icons?i=ts,nodejs,express,next,nest,dotnet,tailwind,electron,react,angular,graphql,django,flask,fastapi,laravel,symfony,hibernate,prisma&perline=6" />
+<img src="https://skillicons.dev/icons?i=ts,nodejs,express,next,nest,dotnet,tailwind,electron,react,angular,graphql,django,flask,fastapi,laravel,symfony,hibernate,prisma&perline=6&theme=light" />
 
 #### 🛠 DevOps & Infra
-<img src="https://skillicons.dev/icons?i=kubernetes,docker,jenkins,terraform,githubactions,gitlab,grafana,gcp,azure,aws,ansible,visualstudio,windows,linux&perline=7" />
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,jenkins,terraform,githubactions,gitlab,grafana,gcp,azure,aws,ansible,visualstudio,windows,linux&perline=7&theme=light" />
 
 <hr>
 
@@ -136,7 +136,7 @@ Tecnologias: `CodeIgniter`, `ES5`, `Ajax`, `Google API`, `OSM API`, `Postgis`, `
 <hr>
 
 ### 🏆 GitHub Profile Trophy
-<img src="https://github-profile-trophy.vercel.app/?username=matheus-ndc&title=Experience,Repositories&theme=radical&no-frame=true&margin-w=15&column=-1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=matheus-ndc&title=Experience,Repositories&theme=buddhism&no-frame=true&margin-w=15&column=-1"/>
 
 <hr>
 
