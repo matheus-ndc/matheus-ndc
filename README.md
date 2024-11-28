@@ -117,9 +117,9 @@ Tecnologias: `CodeIgniter`, `ES5`, `Ajax`, `Google API`, `OSM API`, `Postgis`, `
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/matheus-ndc/matheus-ndc/refs/heads/assets/family.jpg" height="350px;" alt="Me my Dad and Sister"/><br>
+        <img src="https://raw.githubusercontent.com/matheus-ndc/matheus-ndc/refs/heads/assets/christmas.jpg" height="350px;" alt="My Family"/><br>
         <sub>
-          <b>Me my Dad and Sister</b>
+          <b>My Family</b>
         </sub>
       </a>
     </td>
