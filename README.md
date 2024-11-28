@@ -12,6 +12,7 @@
 * [ 💼 Professional Experience ](#-professional-experience)
 * [ 🔧 Workstation ](#-workstation)
 * [ 🖼 Gallery ](#-gallery)
+* [ 🚧 Roadmap History ](#-roadmap-history)
 * [ 🏆 GitHub Profile Trophy ](#-github-profile-trophy)
 * [ 🤝 Collaborators ](#-collaborators)
 * [ 📞 Contact me ](#-contact-me)
@@ -23,13 +24,13 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="illustration of a computer" min-width="450px" max-width="450px" width="450px" align="right">
 
 #### 🤖 Languages
-<img src="https://skillicons.dev/icons?i=html,css,js,cs,python,java,php,bash&perline=5&theme=light" />
+<img src="https://skillicons.dev/icons?i=html,css,js,cs,python,java,php,bash&perline=5" />
 
 #### 📚 Libs & Frameworks
-<img src="https://skillicons.dev/icons?i=ts,nodejs,express,next,nest,dotnet,tailwind,electron,react,angular,graphql,django,flask,fastapi,laravel,symfony,hibernate,prisma&perline=6&theme=light" />
+<img src="https://skillicons.dev/icons?i=ts,nodejs,express,next,nest,dotnet,tailwind,electron,react,angular,graphql,django,flask,fastapi,laravel,symfony,hibernate,prisma&perline=6" />
 
 #### 🛠 DevOps & Infra
-<img src="https://skillicons.dev/icons?i=kubernetes,docker,jenkins,terraform,githubactions,gitlab,grafana,gcp,azure,aws,ansible,visualstudio,windows,linux&perline=7&theme=light" />
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,jenkins,terraform,githubactions,gitlab,grafana,gcp,azure,aws,ansible,visualstudio,windows,linux&perline=7" />
 
 <hr>
 
@@ -92,23 +93,21 @@ Tecnologias: `CodeIgniter`, `ES5`, `Ajax`, `Google API`, `OSM API`, `Postgis`, `
 
 <img src="https://raw.githubusercontent.com/matheus-ndc/matheus-ndc/refs/heads/assets/workstation.png" alt="my workstation printscreen - arch linux with hyprland and waybar" min-width="550px" max-width="550px" width="550px" align="right">
 
-#### 💻 Dell Latitude 3420 [@tetrarch](https://elemarjr.com/arquivo/os-quatro-dominios-camadas-da-arquitetura-corporativa/)
+#### 💻 Dell Latitude 3420
 
-<img width="14" height="14" src="https://img.icons8.com/fluency/48/operating-system.png" alt="operating-system"/>Arch Linux<br>
-<img width="14" height="14" src="https://img.icons8.com/fluency/48/processor.png" alt="processor"/>Intel i5 11Gen<br>
+<img width="14" height="14" src="https://img.icons8.com/fluency/48/operating-system.png" alt="operating-system"/>Fedora Linux 41 (Workstation Edition)<br>
+<img width="14" height="14" src="https://img.icons8.com/fluency/48/processor.png" alt="processor"/>11th Gen Intel® Core™ i5-1135G7<br>
 <img width="14" height="14" src="https://img.icons8.com/fluency/48/memory-slot.png" alt="memory-slot"/>16GB RAM<br>
 <img width="14" height="14" src="https://img.icons8.com/fluency/48/ssd--v1.png" alt="ssd--v1"/>256GB SSD NVMe M.2<br>
 
-#### 🤠🐄 Rancher Home Lab [@tesseract](https://universocinematograficomarvel.fandom.com/pt-br/wiki/Tesseract)
-
-<img width="14" height="14" src="https://img.icons8.com/fluency/48/operating-system.png" alt="operating-system"/>SUSE Linux Enterprise 15 SP6<br>
-<img width="14" height="14" src="https://img.icons8.com/fluency/48/processor.png" alt="processor"/>Xeon E5 2680V4 14 cores/28 threads<br>
-<img width="14" height="14" src="https://img.icons8.com/fluency/48/memory-slot.png" alt="memory-slot"/>4x32 128GB RAM<br>
-<img width="14" height="14" src="https://img.icons8.com/fluency/48/ssd--v1.png" alt="ssd--v1"/>2TB HD / 1TB SSD M.2<br>
+<br>
+<br>
 
 #### ⛔ No time for gaming.
 
 <br>
+<br>
+
 <hr>
 
 ### 🖼 Gallery
@@ -132,6 +131,11 @@ Tecnologias: `CodeIgniter`, `ES5`, `Ajax`, `Google API`, `OSM API`, `Postgis`, `
       </a>
     </td>
 </table>
+
+<hr>
+
+### 🚧 Roadmap History
+<img src="https://roadmap.sh/card/wide/67447fed5434bf319adbe6ab?variant=dark" alt="roadmap.sh"/>
 
 <hr>
 
