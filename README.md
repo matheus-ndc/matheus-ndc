@@ -36,7 +36,7 @@
 
 ### 👨‍🎓 Education
 
-[<img align="left" height="94px" width="94px" alt="Wyden" src="https://media.licdn.com/dms/image/v2/C4D0BAQFbeOKsqZ_vfA/company-logo_100_100/company-logo_100_100/0/1633358764152/fmf_faculdade_martha_falco_logo?e=1738800000&v=beta&t=FwH9njYLOUtibOpplZOPWnBynd0CAHo_gTiXK0AMflE"/>](https://www.wyden.com.br/)
+[<img align="left" height="94px" width="94px" alt="Wyden" src="https://raw.githubusercontent.com/matheus-ndc/matheus-ndc/refs/heads/assets/fmf_logo.jpg"/>](https://www.wyden.com.br/)
 
 **Faculdade Martha Falcão** \
 [**Wyden**](https://www.wyden.com.br/) • Bachelor's Degree of Software Engineer \
@@ -44,7 +44,7 @@ MEC/IGC Rank: ⭐⭐⭐⭐ \
 `2024` - `At this moment`
 
 
-[<img align="left" height="94px" width="94px" alt="Fucapi" src="https://media.licdn.com/dms/image/v2/C4E0BAQG7mvLP4S7KQQ/company-logo_100_100/company-logo_100_100/0/1630581469877?e=1738800000&v=beta&t=fDw-9tA7vh83ZDihWeW3xRen9KRJp2X8t9lpeUyu5JM"/>](https://fucapi.edu.br/)
+[<img align="left" height="94px" width="94px" alt="Fucapi" src="https://raw.githubusercontent.com/matheus-ndc/matheus-ndc/refs/heads/assets/fucapi_logo.jpg"/>](https://fucapi.edu.br/)
 
 **Fundação Centro de Análise, Pesquisa e Inovação Tecnológica** \
 [**Fucapi**](https://fucapi.edu.br/) • Bachelor's Degree of Computer Engineer \
@@ -56,21 +56,21 @@ Year: `2010` - `2014` `Incomplete`
 
 ### 💼 Professional Experience
 
-[<img align="left" height="94px" width="94px" alt="cencosud" src="https://media.licdn.com/dms/image/v2/C4E0BAQHPwGe8jr5xsQ/company-logo_200_200/company-logo_200_200/0/1630596662867/cencosud_s_a__logo?e=1736985600&v=beta&t=Ws5jdjA66sVDK2clB_0th4oNF9ZfOXcd7uaXnNYqNi0"/>](https://www.cencosud.com/)
+[<img align="left" height="94px" width="94px" alt="cencosud" src="https://raw.githubusercontent.com/matheus-ndc/matheus-ndc/refs/heads/assets/cencosud_logo.jpg"/>](https://www.cencosud.com/)
 
 **.NET Backend Developer** \
 [**Cencosud S.A.**](https://www.cencosud.com/) • Full-time \
 Linguagens: `C#`, `Python`, `Javascript`, `Bashscript` \
 Tecnologias: `ASP.NET`, `EF`, `ABP`, `Node`, `AWS`, `Sonarqube`, `Jira`, `Confluence` ...
 
-[<img align="left" height="94px" width="94px" alt="Educacional" src="https://media.licdn.com/dms/image/v2/D4D0BAQERR1EV7UPpeQ/company-logo_200_200/company-logo_200_200/0/1720101310844/educacional_ecossistema_logo?e=1736985600&v=beta&t=ZsHWoLWBsAjGvhlzWLb-JBzyw8MOuPzY0Ow3y2wep6w"/>](https://educacional.com.br/)
+[<img align="left" height="94px" width="94px" alt="Educacional" src="https://raw.githubusercontent.com/matheus-ndc/matheus-ndc/refs/heads/assets/educacional_logo.jpg"/>](https://educacional.com.br/)
 
 **Full Stack Developer** \
 [**Positivo Educacional**](https://educacional.com.br/) • Full-time \
 Linguagens: `Javascript`, `Python` \
 Tecnologias: `Node`, `React`, `Typescript`, `Electron`, `Express`, `Loopback`, `React-Hooks`, `Redux`, `AWS` ...
 
-[<img align="left" height="94px" width="94px" alt="Sinetram" src="https://media.licdn.com/dms/image/v2/D4D0BAQEqlGNwup_xEA/company-logo_200_200/company-logo_200_200/0/1723752717000/sinetram_logo?e=1736985600&v=beta&t=n7noTiinFH45YWO7lpeAUOMyH-UaPhhVD8ulRbsium0"/>](https://www.sinetram.com.br/)
+[<img align="left" height="94px" width="94px" alt="Sinetram" src="https://raw.githubusercontent.com/matheus-ndc/matheus-ndc/refs/heads/assets/sinetram_logo.jpg"/>](https://www.sinetram.com.br/)
 
 **Full Stack Developer** \
 [**Sinetram**](https://www.sinetram.com.br/) • Full-time \
