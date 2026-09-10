@@ -12,9 +12,6 @@
 * [ 💼 Professional Experience ](#-professional-experience)
 * [ 🔧 Workstation ](#-workstation)
 * [ 🖼 Gallery ](#-gallery)
-* [ 🚧 Roadmap History ](#-roadmap-history)
-* [ 🏆 GitHub Profile Trophy ](#-github-profile-trophy)
-* [ 🤝 Collaborators ](#-collaborators)
 * [ 📞 Contact me ](#-contact-me)
 
 <hr>
@@ -27,7 +24,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,cs,python,java,php,bash&perline=5" />
 
 #### 📚 Libs & Frameworks
-<img src="https://skillicons.dev/icons?i=ts,nodejs,express,next,nest,dotnet,tailwind,electron,react,angular,graphql,django,flask,fastapi,laravel,symfony,hibernate,prisma&perline=6" />
+<img src="https://skillicons.dev/icons?i=ts,nodejs,express,next,nest,dotnet,tailwind,electron,react,vite,angular,flask,fastapi,django,laravel,prisma&perline=6" />
 
 #### 🛠 DevOps & Infra
 <img src="https://skillicons.dev/icons?i=kubernetes,docker,jenkins,terraform,gitlab,kafka,rabbitmq,gcp,azure,aws,ansible,visualstudio,windows,linux&perline=7" />
@@ -55,6 +52,20 @@ Year: `2010` - `2014` `Incomplete`
 <hr>
 
 ### 💼 Professional Experience
+
+[<img align="left" height="94px" width="94px" alt="creattive" src="https://raw.githubusercontent.com/matheus-ndc/matheus-ndc/refs/heads/assets/cc_logo.jpg"/>](https://creattive.cc/)
+
+**Tech Lead - Infra & CyberSec** \
+[**Creattive**](https://creattive.cc/) • Full-time \
+Linguagens: `Python`, `Javascript`, `Bashscript` \
+Tecnologias: `Google ADK`, `Vertex AI`, `LangChain`, `GCP`, `Jira`, `Confluence` ...
+
+[<img align="left" height="94px" width="94px" alt="irede" src="https://raw.githubusercontent.com/matheus-ndc/matheus-ndc/refs/heads/assets/irede_logo.jpg"/>](https://www.irede.org.br/)
+
+**Senior .NET Backend Developer** \
+[**IRede**](https://www.irede.org.br/) • Full-time \
+Linguagens: `C#`, `Python`, `Powershell` \
+Tecnologias: `.NET Core`, `ASP.NET`, `EF`, `Keycloak`, `Sonarqube`, `AWS`, `Azure DevOps` ...
 
 [<img align="left" height="94px" width="94px" alt="cencosud" src="https://raw.githubusercontent.com/matheus-ndc/matheus-ndc/refs/heads/assets/cencosud_logo.jpg"/>](https://www.cencosud.com/)
 
@@ -93,12 +104,13 @@ Tecnologias: `CodeIgniter`, `ES5`, `Ajax`, `Google API`, `OSM API`, `Postgis`, `
 
 <img src="https://raw.githubusercontent.com/matheus-ndc/matheus-ndc/refs/heads/assets/workstation.png" alt="my workstation printscreen - arch linux with hyprland and waybar" min-width="550px" max-width="550px" width="550px" align="right">
 
-#### 💻 Dell Latitude 3420
+#### 💻 Avell A52 Liv
 
 <img width="14" height="14" src="https://img.icons8.com/fluency/48/operating-system.png" alt="operating-system"/>Fedora Linux 41 (Workstation Edition)<br>
-<img width="14" height="14" src="https://img.icons8.com/fluency/48/processor.png" alt="processor"/>11th Gen Intel® Core™ i5-1135G7<br>
+<img width="14" height="14" src="https://img.icons8.com/fluency/48/processor.png" alt="processor"/>Intel(R) Core(TM) i5-10300H<br>
+<img width="14" height="14" src="https://img.icons8.com/fluency/48/video-card.png" alt="video-card"/>NVIDIA GeForce GTX 1650 Ti<br>
 <img width="14" height="14" src="https://img.icons8.com/fluency/48/memory-slot.png" alt="memory-slot"/>16GB RAM<br>
-<img width="14" height="14" src="https://img.icons8.com/fluency/48/ssd--v1.png" alt="ssd--v1"/>256GB SSD NVMe M.2<br>
+<img width="14" height="14" src="https://img.icons8.com/fluency/48/ssd--v1.png" alt="ssd--v1"/>1TB SSD NVMe M.2<br>
 
 <br>
 <br>
@@ -131,49 +143,6 @@ Tecnologias: `CodeIgniter`, `ES5`, `Ajax`, `Google API`, `OSM API`, `Postgis`, `
         </sub>
       </a>
     </td>
-</table>
-
-<hr>
-
-### 🚧 Roadmap History
-<img src="https://roadmap.sh/card/wide/67447fed5434bf319adbe6ab?variant=dark" alt="roadmap.sh"/>
-
-<hr>
-
-### 🏆 GitHub Profile Trophy
-<img src="https://github-profile-trophy.vercel.app/?username=matheus-ndc&title=Experience,Repositories&theme=buddhism&no-frame=true&margin-w=15&column=-1"/>
-
-<hr>
-
-### 🤝 Collaborators
-        
-<table>
-  <tr>
-    <td align="center">
-      <a href="#">
-        <img src="https://t.ctcdn.com.br/n7eZ74KAcU3iYwnQ89-ul9txVxc=/400x400/smart/filters:format(webp)/i490769.jpeg" width="100px;" alt="Elon Musk Picture"/><br>
-        <sub>
-          <b>Elon Musk</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://s2.glbimg.com/FUcw2usZfSTL6yCCGj3L3v3SpJ8=/smart/e.glbimg.com/og/ed/f/original/2019/04/25/zuckerberg_podcast.jpg" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
-        <sub>
-          <b>Mark Zuckerberg</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg" width="100px;" alt="Foto do Steve Jobs"/><br>
-        <sub>
-          <b>Steve Jobs</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
 </table>
 
 <hr>
